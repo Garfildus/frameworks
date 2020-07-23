@@ -1,4 +1,4 @@
-# my-project
+# lesson1-tasks
 
 ## Project setup
 ```
